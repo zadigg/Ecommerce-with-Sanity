@@ -6,7 +6,7 @@ import {
   AiOutlineStar,
 } from "react-icons/ai";
 
-import { client, urlFor } from "../../lib/client";
+import { client, urlFor } from "../../Lib/client";
 import { Product } from "../../components";
 
 const ProductDetails = ({ product, products }) => {
